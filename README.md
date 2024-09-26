@@ -27,8 +27,9 @@ Para instalar o sistema, siga os passos abaixo:
 
 1. Abra o link disponibilizado do arquivo no GitHub.
 2. Navegue até o diretório do projeto - SISTEMA SUPERMERCADO C - .
-3. Compile o projeto na ferramenta VsCode.
-4. Rode o programa.
+3. Abra o arquivo main.c (nele contém o código).
+4. Compile o projeto na ferramenta VsCode.
+5. Rode o programa.
 
 
 
