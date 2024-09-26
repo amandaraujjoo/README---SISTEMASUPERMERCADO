@@ -32,3 +32,10 @@ Para instalar o sistema, siga os passos abaixo:
 
 
 
+## Exemplos de algumas funções do código compilado 
+<img src = "image.png" > 
+<img src = "ex.fatura.png" >
+<img src = "ex.comprar.png" >
+
+
+
